@@ -1,4 +1,4 @@
-Spark core API git branch -M main solution
+Spark core API exercise solution
 
 - Find all the tweets by user
 - Find how many tweets each user has
